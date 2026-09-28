@@ -1,0 +1,4 @@
+Pytest tests passed: 20
+Local git commit hash: bff08c3bd74ee5ac45f8fe9cc92a1e88421cfe49
+
+Built API Observatory as a Python package with a loopback-only CLI, a scripted synthetic fixture API, repeatable baselines, five HTTP response drift detectors, idempotent evidence-pointed JSONL incidents, and Markdown, HTML, and JSON reports. Added scenario and CLI tests plus a README covering quickstart, architecture, the local fixture honesty boundary, and detector behavior. The final verification passed all 20 tests and exercised all five drift scenarios, their idempotent re-checks, and byte-identical JSON report rendering.
