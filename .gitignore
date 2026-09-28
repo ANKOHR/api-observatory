@@ -1,0 +1,12 @@
+ap-prompt.txt
+ap-launch.py
+ap-codex.log
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.venv/
+build/
+dist/
+*.egg-info/
+.api-observatory/
+ao-incidents.jsonl
